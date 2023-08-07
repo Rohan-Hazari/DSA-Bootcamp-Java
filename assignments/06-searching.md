@@ -24,6 +24,13 @@
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [Binary Search](https://leetcode.com/problems/binary-search/)
+- 1482
+- 1283
+- 1231
+- 1011
+- 875
+- 774
+- 410
 
 ## Medium
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
